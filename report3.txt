@@ -1,0 +1,3 @@
+Clients who ordered 1 times with a price higher than 20
+
+user1
